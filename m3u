@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://static.dicionariodesimbolos.com.br/upload/a5/cd/descubra-o-significado-do-escudo-da-fe-com-imagens-9_xl.png" group-title="creditos",@by-Leoricart-iptvlr
+#EXTINF:-1 tvg-id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://static.dicionariodesimbolos.com.br/upload/a5/cd/descubra-o-significado-do-escudo-da-fe-com-imagens-9_xl.png" group-title="creditos",@by-Leoricart-iptvlr
 https://
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://4.bp.blogspot.com/-kVf7Yje9abs/YD7vsFt_aZI/AAAAAAAABlU/-_Vag01L2Lo1zpVtvyeDRT2WLbKZnN9SgCK4BGAYYCw/s1600/vvvv.png" group-title="Leoricart Canais Extras",Coloque em HW
-http://
 
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Tv_diario_38.jpg" group-title="Leoricart Canais Aberto",TV Diário CE
 https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZRQxdQYxBCEWgcnfs-5T0ak)/dm/3/x7txn7q/s/live-2.m3u8
@@ -322,10 +320,12 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1763240055.m3u8
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://1.bp.blogspot.com/-3oCl_KFFtsE/X9ToWP3XcoI/AAAAAAAAD9U/UkImSbf0qCAiX8-lhGbZLIbRtIhFO5FnACLcBGAsYHQ/s0/LOADING%2BTV.png" group-title="Leoricart Canais Web",Loanding TV
 https://aws-br.cdn.booyah.live/hls/1000001/34850987_480.m3u8
 
+
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://podecomparar.com.br/sites/default/files/copa-do-nordeste-200px.png" group-title="Leoricart Canais Esportes",Copa do Nordeste 1
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/esportes4_500/index.m3u8|user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Mobile Safari/537.36
 
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://podecomparar.com.br/sites/default/files/copa-do-nordeste-200px.png" group-title="Leoricart Canais Esportes",Copa do Nordeste 2
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/esportes5_1000/index.m3u8|user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Mobile Safari/537.36
 
-
+#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Teste
+https://e10.jokingst.xyz/ingestbr/palma/master.m3u8
