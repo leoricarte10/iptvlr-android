@@ -307,3 +307,45 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1763240055.m3u8
 
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://1.bp.blogspot.com/-3oCl_KFFtsE/X9ToWP3XcoI/AAAAAAAAD9U/UkImSbf0qCAiX8-lhGbZLIbRtIhFO5FnACLcBGAsYHQ/s0/LOADING%2BTV.png" group-title="Leoricart Canais Web",Loanding TV
 https://aws-br.cdn.booyah.live/hls/1000003/34850987_360.m3u8
+
+#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Extras",Sportv 2
+http://13ca3tango.cf/SD_SPORTV_2/video.m3u8?token=d0d7907a017948c7e3b9bd71167a078e
+#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Extras",Sportv 3
+http://13ca3tango.cf/SD_SPORTV_3/video.m3u8?token=d0d7907a017948c7e3b9bd71167a078e
+#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Extras",Sportv
+http://50.7.34.34/SD_UDHASKDN_1/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Extras",Premiere
+http://13ca3tango.cf/SD_PFC_CLUBES/video.m3u8?token=d0d7907a017948c7e3b9bd71167a078e
+#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Extras",Premiere 2
+http://13ca3tango.cf/SD_PFC_2/video.m3u8?token=d0d7907a017948c7e3b9bd71167a078e
+#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Extras",Premiere 3
+http://13ca3tango.cf/SD_PFC_3/video.m3u8?token=d0d7907a017948c7e3b9bd71167a078e
+#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Extras",Premiere 4
+http://13ca3tango.cf/SD_PFC_4/video.m3u8?token=d0d7907a017948c7e3b9bd71167a078e
+#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Extras",Copa do Nordeste 1
+http://21eua10india.cf/HD_NORDESTE_1/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Extras",Copa do Nordeste 2
+http://21eua10india.cf/HD_NORDESTE_2/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Extras",Copa do Nordeste 3
+http://21eua10india.cf/HD_NORDESTE_3/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Extras",Copa do Nordeste 4
+http://21eua10india.cf/HD_NORDESTE_4/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Extras",Copa do Nordeste 5
+http://21eua10india.cf/HD_NORDESTE_5/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Extras",Copa do Nordeste 6
+http://21eua10india.cf/HD_NORDESTE_6/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Extras",Tnt Sports
+http://20nl10hotel.ga/SD_ESPORTE_INTERATIVO_1/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Extras",Tnt Sports 2
+http://20nl10hotel.ga/SD_ESPORTE_INTERATIVO_2/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Extras",Fox sports
+http://20nl10whiskey.ga/SD_FOX_SPORTS/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Extras",Conmebol 1
+http://50.7.34.34/SD_CONMEBOL_01/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Extras",Conmebol 2
+http://50.7.34.34/SD_CONMEBOL_02/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Extras",Dazn
+http://20nl10hotel.ga/HD_DAZN_1/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Extras",Tnt
+http://13ca3tango.cf/SD_TNT/video.m3u8?token=d0d7907a017948c7e3b9bd71167a078e
+
