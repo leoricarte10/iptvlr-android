@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://static.dicionariodesimbolos.com.br/upload/a5/cd/descubra-o-significado-do-escudo-da-fe-com-imagens-9_xl.png" group-title="creditos",@by-Leoricart-iptvlr
 https://
+#EXTINF:-1 tvg-id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://trailclubedecuritiba.com.br/wp-content/uploads/2018/03/ATEN%C3%87%C3%83O.jpg" group-title="creditos",Sempre de um Atualizar
+https://
 
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Tv_diario_38.jpg" group-title="Leoricart Canais Aberto",TV Diário CE
 https://stream-03.sv4.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZZ2GJ0Qkbei-dCzLVbPuB9E)/dm/3/x7txn7q/s/live-2.m3u8
