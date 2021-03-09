@@ -5,6 +5,8 @@ https://
 https://
 #EXTINF:-1 tvg-id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://trailclubedecuritiba.com.br/wp-content/uploads/2018/03/ATEN%C3%87%C3%83O.jpg" group-title="creditos",No App de um Atualizar!
 https://
+#EXTINF:-1 tvg-id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://trailclubedecuritiba.com.br/wp-content/uploads/2018/03/ATEN%C3%87%C3%83O.jpg" group-title="creditos",Nos três Pontinhos!
+https://
 
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Tv_diario_38.jpg" group-title="Leoricart Canais Aberto",TV Diário CE
 https://stream-03.sv4.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZZ2GJ0Qkbei-dCzLVbPuB9E)/dm/3/x7txn7q/s/live-2.m3u8
@@ -114,9 +116,6 @@ https://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/video.m3u8
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tnt-150x150.png" group-title="Leoricart Canais Filmes e Series",Tnt
 http://2203.janjua.pw:8089/live/aovivotudo_tnt/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tnt-150x150.png" group-title="Leoricart Canais Filmes e Series",Tnt opc 1
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_500/index.m3u8|user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Mobile Safari/537.36
- 
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-1-1.png" group-title="Leoricart Canais Variedades",Telecine Play
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w984348757.m3u8
 
@@ -168,9 +167,6 @@ https://ug1upc1hgb.singularcdn.net.br/MTV_BR_HD/video.m3u8
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/viva.png" group-title="Leoricart Canais Variedades",Viva
 http://2203.janjua.pw:8089/live/aovivotudo_viva/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2020/01/bbb-logo-big-brother-brasil-logo-150x61.png" group-title="Leoricart Canais Variedades",Big Brother Brasil
-https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_500/index.m3u8|user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Mobile Safari/537.36
-
 #EXTINF:-1 tvg-id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/bandnews-150x66.png" group-title="Leoricart Canais Noticias",Band News
 https://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY/tracks-v1a1/mono.m3u8
 
@@ -213,9 +209,6 @@ http://2203.janjua.pw:8089/live/aovivotudo_espnbr/playlist.m3u8?id=89359&pk=af4e
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/12/espnextra-150x31.png" group-title="Leoricart Canais Esportes",Espn Extra
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/sportv-150x28.png" group-title="Leoricart Canais Esportes",Sportv opc 1
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_500/index.m3u8|user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Mobile Safari/537.36
- 
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/sportv-150x28.png" group-title="Leoricart Canais Esportes",Sportv
 http://2203.janjua.pw:8089/live/aovivotudo_sportv/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
  
@@ -225,17 +218,11 @@ http://2203.janjua.pw:8089/live/aovivotudo_sportv2/playlist.m3u8?id=89925&pk=af4
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/sportv3-150x27.png" group-title="Leoricart Canais Esportes",Sportv 3
 http://2203.janjua.pw:8089/live/aovivotudo_sportv3/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/foxsports-150x83.png" group-title="Leoricart Canais Esportes",Fox Sports opc 1
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_500/index.m3u8|user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Mobile Safari/537.36
- 
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/foxsports-150x83.png" group-title="Leoricart Canais Esportes",Fox Sports
 http://2203.janjua.pw:8089/live/aovivotudo_foxsports/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
  
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/foxsports2-150x103.png" group-title="Leoricart Canais Esportes",Fox Sports 2
 http://2203.janjua.pw:8089/live/aovivotudo_foxsports2/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
-
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/premiereclubes-150x44.png" group-title="Leoricart Canais Esportes",Premiere
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_500/index.m3u8|user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Mobile Safari/537.36
 
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Leoricart Canais Esportes",Premiere Clubes
 http://2203.janjua.pw:8089/live/aovivotudo_premier1/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
@@ -319,10 +306,4 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1860317218.m3u8
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1763240055.m3u8
 
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://1.bp.blogspot.com/-3oCl_KFFtsE/X9ToWP3XcoI/AAAAAAAAD9U/UkImSbf0qCAiX8-lhGbZLIbRtIhFO5FnACLcBGAsYHQ/s0/LOADING%2BTV.png" group-title="Leoricart Canais Web",Loanding TV
-https://aws-br.cdn.booyah.live/hls/1000001/34850987_480.m3u8
-
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://podecomparar.com.br/sites/default/files/copa-do-nordeste-200px.png" group-title="Leoricart Canais Esportes",teste
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/esportes4_500/index.m3u8
-
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://podecomparar.com.br/sites/default/files/copa-do-nordeste-200px.png" group-title="Leoricart Canais Esportes",teste 2
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/esportes5_1000/index.m3u8
+https://aws-br.cdn.booyah.live/hls/1000003/34850987_360.m3u8
