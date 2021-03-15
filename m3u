@@ -9,8 +9,7 @@ https://
 
 #EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO" tvg-logo="" group-title="CANAIS LOCAIS",CARIOCÃO
 http://rec2.distv.net:80/daniele/12345/4
-#EXTINF:-1 tvg-id="" tvg-name=" 24H CAVERNA DO DRAGÃO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS", 24H CAVERNA DO DRAGÃO
-http://pdsrv.io:80/live/mbkbdhjh/1acxGPz248/60786.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="24H 44 GATOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",24H 44 GATOS
 http://pdsrv.io:80/live/mbkbdhjh/1acxGPz248/70016.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H 9-1-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",24H 9-1-1
