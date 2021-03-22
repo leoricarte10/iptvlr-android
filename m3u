@@ -2338,3 +2338,6 @@ http://pdsrv.io:80/live/mbkbdhjh/1acxGPz248/61133.m3u8
 http://pdsrv.io:80/live/mbkbdhjh/1acxGPz248/61132.m3u8
 #EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/200px-ZooMoo_logo.svg.png" group-title="CANAIS INFANTIS",ZOOMOO SD¹
 http://pdsrv.io:80/live/mbkbdhjh/1acxGPz248/20450.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | teste",Teste
+https://1621426d8961.ngrok.io
